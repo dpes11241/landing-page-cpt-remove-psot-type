@@ -1,4 +1,4 @@
-Functions.php
+add this code in Functions.php and add class-remove-slug-from-cpt.php file in inc/
 
 // LANDING PAGE POST TYPE
 function register_landing_pages_cpt() {
